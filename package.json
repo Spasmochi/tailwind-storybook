@@ -14,7 +14,8 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 9009 -s public",
     "build-storybook": "build-storybook -s public",
-    "deploy-storybook": "storybook-to-ghpages"
+    "deploy-storybook": "storybook-to-ghpages",
+    "chromatic": "npx chromatic --project-token pdvcxzsr55h"
   },
   "repository": {
     "type": "git",
@@ -50,6 +51,7 @@
     "@storybook/addons": "^5.1.11",
     "@storybook/react": "^5.1.11",
     "@storybook/storybook-deployer": "^2.8.1",
+    "chromatic": "^5.1.0",
     "classnames": "^2.2.6",
     "postcss-import": "^12.0.1",
     "storybook-react-to-static-markup": "^0.1.1",

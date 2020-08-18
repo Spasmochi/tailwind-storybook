@@ -7,7 +7,7 @@ This is a starter for [Tailwind CSS](https://tailwindcss.com/) and [Storybook](h
 ## Installation
 
 ```bash
-git clone https://github.com/audunru/tailwind-storybook.git
+git clone https://github.com/spasmochi/tailwind-storybook.git
 
 cd tailwind-storybook
 
